@@ -1,0 +1,15 @@
+header {
+    background: black;
+    width: 100vw;
+    height: 250px;
+    display: flex;
+   }
+
+   .header-items {
+    list-style-type: upper-roman;
+    display: flex;
+    justify-content: space-evenly;
+    border: none;
+    width: 80vw;
+    color: yellow
+}
